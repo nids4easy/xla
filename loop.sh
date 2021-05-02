@@ -1,1 +1,3 @@
-while sleep 30; do ./stop.sh ; done
+while sleep 120; do 
+./stop.sh
+done
