@@ -1,3 +1,4 @@
-while sleep 120; do 
+while true; do 
 ./stop.sh
+sleep 120
 done
