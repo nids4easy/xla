@@ -1,6 +1,5 @@
 ./scala_start.sh &
 sleep 60
-p
+echo "p"
 sleep 30
-r
-done
+echo "r"
