@@ -3,3 +3,4 @@ sleep 60
 p
 sleep 30
 r
+done
