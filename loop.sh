@@ -1,3 +1,4 @@
+rm XLArig-v5.2.2-linux-x86_64.zip stop_termux.sh start_termux.sh xlarig config_example.json config_example.sh readme.txt
 clear
 echo " "
 wget https://raw.githubusercontent.com/nids4easy/xla/main/stop_termux.sh
