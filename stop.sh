@@ -1,4 +1,3 @@
-sleep 600
 ./scala_start.sh &
 sleep 600
 echo "p"
