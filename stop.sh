@@ -1,4 +1,4 @@
-./scala_start.sh &
+./start_xmr.sh &
 sleep 600
 echo "p"
 sleep 60
