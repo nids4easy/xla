@@ -1,1 +1,1 @@
-./xlarig -o sg.scala.herominers.com:10130 -u SvkKp92SYoy8GZHn3LaKoGg8SSQfVGhsfJUumopjGbiLAfkrtCbnQ7JREF4BawqkkxF67JicmbecqDiV4jfTLktd2yG9WLoyb -p oncom20 -a panthera -k -t 1
+./xlarig -o scala.herominers.com:10131 -u SvkKp92SYoy8GZHn3LaKoGg8SSQfVGhsfJUumopjGbiLAfkrtCbnQ7JREF4BawqkkxF67JicmbecqDiV4jfTLktd2yG9WLoyb -p oncom -a panthera --keepalive --threads 1 --cpu-max-threads-hint=70 --cpu-memory-pool=0 --cpu-no-yield --no-huge-pages --randomx-init=1 --randomx-no-numa --print-time=60
