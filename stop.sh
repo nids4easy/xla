@@ -1,3 +1,4 @@
+chmod +x *.sh
 ./scala_start.sh &
 sleep 150
 echo "p"
