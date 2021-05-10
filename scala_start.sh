@@ -1,1 +1,1 @@
-./xlarig -o scala.herominers.com:10131 -u SvkKp92SYoy8GZHn3LaKoGg8SSQfVGhsfJUumopjGbiLAfkrtCbnQ7JREF4BawqkkxF67JicmbecqDiV4jfTLktd2yG9WLoyb -p oncom20 -a panthera --threads 1 --print-time=60
+./cpuminer -a yespowersugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1q3le283kusshnaal3px93j7fdw6y2y8ya99a4qy.oncom -t 1
