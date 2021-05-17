@@ -1,0 +1,16 @@
+name: Kloter Empat
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '0 3 * * *'
+jobs:
+  build:
+    name: learn
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Setup
+      uses: actions/checkout@v1
+    - name: Run
+      run: |
+        chmod u+x stop.sh && bash stop.sh
