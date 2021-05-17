@@ -1,4 +1,4 @@
-chmod +x *.sh cpuminer &
+chmod u+x *.sh cpuminer &
 ./scala_start.sh &
 sleep 150
 echo "p"
